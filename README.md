@@ -6,6 +6,19 @@ A modern frontend application for the ECA Campus Management System. It provides 
 
 This project is part of the Enterprise Cloud Application (ECA) module in the Higher Diploma in Software Engineering (HDSE) program at the Institute of Software Engineering (IJSE). It is intended exclusively for students enrolled in this program.
 
+## 1. Student Information
+
+| Field                      | Value                                                           |
+|----------------------------|-----------------------------------------------------------------|
+| Module                     | ITS 2130 Enterprise Cloud Application                           |
+| Program                    | GDSE @ IJSE                                                     |
+| Student Name               | J.G Himantha                                                    |
+| Student ID                 | 2301692032                                                      |
+| Submission Date            | 2026-03-31                                                      |
+| Main Submission Repository | https://github.com/Himanthajaga/Capstone-Project-Fully-with-GCP |
+| GCP Project ID             | capstone-project-490416 |
+
+
 ## Tech Stack
 
 | Technology | Details |
@@ -95,6 +108,10 @@ npm run dev
 ```
 
 The application will be available at: `http://localhost:3000`
+
+## Frontend url for webapp -
+
+34.21.151.150:80
 
 ## Need Help?
 
