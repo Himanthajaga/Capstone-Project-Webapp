@@ -109,9 +109,9 @@ npm run dev
 
 The application will be available at: `http://localhost:3000`
 
-## Frontend url for webapp -
+## Frontend url for webapp 
 
-34.21.151.150:80
+http://34.21.151.150:80
 
 ## Need Help?
 
