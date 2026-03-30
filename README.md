@@ -15,6 +15,7 @@ This project is part of the Enterprise Cloud Application (ECA) module in the Hig
 | Student Name               | J.G Himantha                                                    |
 | Student ID                 | 2301692032                                                      |
 | Submission Date            | 2026-03-31                                                      |
+| Slack Handle               | Himantha j                                                   |
 | Main Submission Repository | https://github.com/Himanthajaga/Capstone-Project-Fully-with-GCP |
 | GCP Project ID             | capstone-project-490416 |
 
